@@ -15,4 +15,4 @@ To compile and run the program, you need a C++ compiler that supports the C++11 
 To compile the program, navigate to the directory containing the source code file (`queens.cpp`) and run the following command:
 
 ```bash
-g++ -o queens queens.cpp
+g++ -o queens nQueens.cpp
